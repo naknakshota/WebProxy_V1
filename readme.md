@@ -1,6 +1,5 @@
-Homework3: HTTP and Web Proxies
 
-readme:
+
 
 Files:
 web_proxy.py: Receives data from client, sends it to webserver which it receives back data and sends it back to the webclient.
